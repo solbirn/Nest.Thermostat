@@ -1,0 +1,6 @@
+global using Microsoft.VisualStudio.TestTools.UnitTesting;
+global using FluentAssertions;
+global using System.Net;
+global using System.Net.Http.Json;
+global using System.Text.Json;
+global using Nest.Thermostat.Tests.Infrastructure;

@@ -1,0 +1,12 @@
+/Users/sol/Code/Nest.Thermostat/Nest.Thermostat.Core/bin/Debug/net10.0/Nest.Thermostat.Core.deps.json
+/Users/sol/Code/Nest.Thermostat/Nest.Thermostat.Core/bin/Debug/net10.0/Nest.Thermostat.Core.dll
+/Users/sol/Code/Nest.Thermostat/Nest.Thermostat.Core/bin/Debug/net10.0/Nest.Thermostat.Core.pdb
+/Users/sol/Code/Nest.Thermostat/Nest.Thermostat.Core/obj/Debug/net10.0/Nest.Thermostat.Core.csproj.AssemblyReference.cache
+/Users/sol/Code/Nest.Thermostat/Nest.Thermostat.Core/obj/Debug/net10.0/Nest.Thermostat.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sol/Code/Nest.Thermostat/Nest.Thermostat.Core/obj/Debug/net10.0/Nest.Thermostat.Core.AssemblyInfoInputs.cache
+/Users/sol/Code/Nest.Thermostat/Nest.Thermostat.Core/obj/Debug/net10.0/Nest.Thermostat.Core.AssemblyInfo.cs
+/Users/sol/Code/Nest.Thermostat/Nest.Thermostat.Core/obj/Debug/net10.0/Nest.Thermostat.Core.csproj.CoreCompileInputs.cache
+/Users/sol/Code/Nest.Thermostat/Nest.Thermostat.Core/obj/Debug/net10.0/Nest.Thermostat.Core.dll
+/Users/sol/Code/Nest.Thermostat/Nest.Thermostat.Core/obj/Debug/net10.0/refint/Nest.Thermostat.Core.dll
+/Users/sol/Code/Nest.Thermostat/Nest.Thermostat.Core/obj/Debug/net10.0/Nest.Thermostat.Core.pdb
+/Users/sol/Code/Nest.Thermostat/Nest.Thermostat.Core/obj/Debug/net10.0/ref/Nest.Thermostat.Core.dll

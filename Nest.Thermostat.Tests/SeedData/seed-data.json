@@ -1,0 +1,81 @@
+[
+    {
+        "id": "09AA01ACTEST:shared.09AA01ACTEST",
+        "serial": "09AA01ACTEST",
+        "type": "DeviceState",
+        "objectKey": "shared.09AA01ACTEST",
+        "objectRevision": 1,
+        "objectTimestamp": 1702742400000,
+        "updatedAt": 1702742400000,
+        "value": {
+            "target_temperature": 21.0,
+            "target_temperature_low": 18.0,
+            "target_temperature_high": 24.0,
+            "target_temperature_type": "heat",
+            "hvac_ac_state": false,
+            "hvac_heater_state": false,
+            "hvac_fan_state": false,
+            "auto_away": 0,
+            "target_change_pending": false,
+            "touched_by": {
+                "touched_by": "nest",
+                "touched_where": "api",
+                "touched_source": "web",
+                "touched_when": 1702742400,
+                "touched_tzo": 0,
+                "touched_id": 1
+            }
+        }
+    },
+    {
+        "id": "09AA01ACTEST:device.09AA01ACTEST",
+        "serial": "09AA01ACTEST",
+        "type": "DeviceState",
+        "objectKey": "device.09AA01ACTEST",
+        "objectRevision": 1,
+        "objectTimestamp": 1702742400000,
+        "updatedAt": 1702742400000,
+        "value": {
+            "current_temperature": 20.5,
+            "current_humidity": 45,
+            "software_version": "5.9.3-1",
+            "model_version": "Display",
+            "battery_level": 3.9,
+            "has_fan": true,
+            "has_ac": true,
+            "has_heat": true,
+            "can_heat": true,
+            "can_cool": true,
+            "leaf": true,
+            "time_to_target": 0,
+            "eco_temperatures": {
+                "low": 15.5,
+                "high": 28.0
+            }
+        }
+    },
+    {
+        "id": "ownership:09AA01ACTEST",
+        "serial": "09AA01ACTEST",
+        "type": "DeviceOwnership",
+        "userId": "00000000-0000-0000-0000-000000000001",
+        "userName": "Test User",
+        "userEmail": "testuser@owlx.dev",
+        "displayName": "Test Thermostat",
+        "location": "Living Room",
+        "claimedAt": 1702742400000,
+        "entryKey": "123TEST",
+        "updatedAt": 1702742400000
+    },
+    {
+        "id": "entrykey:456CLAIM",
+        "serial": "09AA01ACTEST",
+        "type": "EntryKey",
+        "code": "456CLAIM",
+        "expiresAt": 9999999999999,
+        "claimedBy": null,
+        "claimedAt": null,
+        "updatedAt": 1702742400000,
+        "ttl": -1
+    }
+]
